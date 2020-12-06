@@ -61,10 +61,5 @@
             "ProxyManagerTestAsset\\": "tests/ProxyManagerTestAsset",
             "Laminas\\Server\\": "tests/Stubbed/Laminas/Server"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0.x-dev"
-        }
     }
 }
