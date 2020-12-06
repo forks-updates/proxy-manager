@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "forks-updates/proxy-manager": {
+      "2.9.0": { @composer.json }
+    }
+  }
+}

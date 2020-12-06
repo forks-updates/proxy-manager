@@ -1,5 +1,6 @@
 {
-    "name":              "ocramius/proxy-manager",
+    "name":              "forks-updates/proxy-manager",
+    "version":           "2.9.0",
     "description":       "A library providing utilities to generate, instantiate and generally operate with Object Proxies",
     "type":              "library",
     "license":           "MIT",
