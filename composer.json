@@ -1,6 +1,6 @@
 {
     "name":              "forks-updates/proxy-manager",
-    "version":           "2.9.0",
+    "version":           "3.0.x-dev",
     "description":       "A library providing utilities to generate, instantiate and generally operate with Object Proxies",
     "type":              "library",
     "license":           "MIT",
